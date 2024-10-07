@@ -9,6 +9,10 @@ import UpdateEvento from './pages/UpdateEvento';
 import CreateNovidade from './pages/CreateNovidade';
 import UpdateNovidade from './pages/UpdateNovidade';
 import Login from './pages/Login';
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import Home from "./pages/Home";
+import "./App.css";
 
 
 const App = () => {
@@ -38,6 +42,14 @@ const App = () => {
       </div>
     </Router>
   );
+  return (
+    <>
+      <Header />
+      <Home />
+      <Footer />
+    </>
+  );
 };
+
 
 export default App;

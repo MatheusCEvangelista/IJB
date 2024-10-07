@@ -40,3 +40,69 @@
 .read-the-docs {
   color: #888;
 }
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+/* Estilos para o header */
+.header {
+  background-color: #f57c00;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header .nav a {
+  margin-right: 1rem;
+  color: white;
+  text-decoration: none;
+}
+
+.header .cta {
+  background-color: #ff9800;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+/* Estilos para os cartões de notícias */
+.news-card {
+  border: 1px solid #e0e0e0;
+  margin: 1rem;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.news-card-image {
+  width: 100%;
+  height: auto;
+}
+
+.news-card-content {
+  padding: 1rem;
+}
+
+.news-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Estilos para o footer */
+.footer {
+  background-color: #212121;
+  color: white;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
