@@ -1,0 +1,60 @@
+{
+  "campanhas": [
+    {
+      "id": "dfca",
+      "nome": "idhrguhrub",
+      "dt_publi": "bjoujbjbj",
+      "objetivo": "bjbjbjbjo",
+      "dt_inicio": "jbjbjibjib",
+      "dt_final": "bjihbjibji"
+    },
+    {
+      "id": "cad0",
+      "nome": "e",
+      "dt_publi": "e",
+      "objetivo": "e",
+      "dt_inicio": "e",
+      "dt_final": "e"
+    }
+  ],
+  "eventos": [
+    {
+      "id": "2725",
+      "nome": "ibihbhib",
+      "dt_publi": "bhbhib",
+      "local": "bhbhb",
+      "dt_evento": "hkbhbh",
+      "hr_evento": "hbhkbkh"
+    }
+  ],
+  "novidades": [
+    {
+      "id": "8b13",
+      "nome": "nbjbjbjb",
+      "dt_publi": "bbhbihb",
+      "categoria": "bkbkbkj",
+      "origem": "jbkjbjbk",
+      "destaque": "bjkbjkbj"
+    },
+    {
+      "id": "1641",
+      "nome": "sei la",
+      "dt_publi": "28092004",
+      "categoria": "boom",
+      "origem": "oaids",
+      "destaque": "ioda"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "username": "user1",
+      "password": "password1"
+    }
+  ]
+}
